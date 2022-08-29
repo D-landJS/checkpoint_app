@@ -1,16 +1,21 @@
-# checkpoint_segursat
+# Checkpoint APP
 
-A new Flutter project.
+Creacion de aplicación mobile en Flutter.
 
-## Getting Started
+Creation of mobile application in Flutter.
 
-This project is a starting point for a Flutter application.
+## App with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+En este repositorio encontraras una app de checkpoint completa.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In this repository you will find a complete checkpoint app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---------------------------------------------------------------------------------------------------------
+
+> URL Doc Checkpoint ->
+[Click here](https://docs.google.com/document/d/e/2PACX-1vTI6Zgjta6-j8Ll8BmQ9ZPFP3fRUqar16XqnYGSmZGbbw8rcMZ728zayCcrSDltI8GWAuOwmh0wLYCm/pub)
+
+---------------------------------------------------------------------------------------------------------
+![foto de cabecera](![image](https://user-images.githubusercontent.com/55060895/187290819-4bb6e444-9a47-495b-9f1d-06c9f1001139.png)
+)
